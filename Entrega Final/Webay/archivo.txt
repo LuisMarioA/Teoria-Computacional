@@ -1,0 +1,4 @@
+Este es un archivo que se usa para probar si una cadena contiene un subcadena de las siguientes dos (web/ebay) o si contiene ambas ademas de que arroja la posicion y la linea en la que se encuentra.
+En esta que es la line dos no identificara nada.
+Pero en la linea tres hay tres palabra web ebay y webay.
+En la linea cuatro esta algomaswebmasalgo y algomasebaymasalgo y algowebayalgo 
